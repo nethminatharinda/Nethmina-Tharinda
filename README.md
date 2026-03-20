@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Nethmina Tharinda
 
-<h3 align="center">💻 Web Developer | 🎬 Video Editor | 🚀 Entrepreneur</h3>
+<h3 align="center">💻 Web Developer | 🤖 Discord Bot Developer | 🚀 Entrepreneur</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20views&color=0e75b6&style=flat" />
