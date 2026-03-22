@@ -65,9 +65,6 @@ motto: "Code. Create. Dominate. 🚀"
 ![Lua](https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white)
 ![Discord.js](https://img.shields.io/badge/Discord.js-5865F2?style=for-the-badge&logo=discord&logoColor=white)
 
-### 📱 Mobile
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
 
 ### 🧰 Tools & Platforms
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
@@ -175,8 +172,7 @@ motto: "Code. Create. Dominate. 🚀"
 |------|----------|
 | ⚡ Advanced JavaScript | `████████░░` 80% |
 | 🔧 Backend Dev (Node.js) | `███████░░░` 70% |
-| 🤖 AI Tools & Automation | `█████░░░░░` 50% |
-| 📱 Flutter / Mobile Dev | `██████░░░░` 60% |
+| 🤖 AI Tools & Automation | `██████░░░░` 60% |
 
 </div>
 
